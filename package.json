@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "stream-chat": "^1.8.0"
+    "stream-chat": "^8.2.1"
   }
 }
